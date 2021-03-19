@@ -10,6 +10,7 @@
 .page-footer__conatiner {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
 }
 
 .page-footer__info {
@@ -98,6 +99,7 @@
 .footer-form__container {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer-form__text {
