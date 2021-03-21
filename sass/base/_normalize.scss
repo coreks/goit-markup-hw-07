@@ -197,8 +197,9 @@ Remove the inheritance of text transform in Edge and Firefox.
 ​
 button,
 select {
-  /* 1 */
   text-transform: none;
+
+  /* 1 */
 }
 
 ​
@@ -349,14 +350,6 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-.container {
-  width: 1200px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 h2 {
